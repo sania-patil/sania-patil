@@ -1,5 +1,5 @@
 Hi, I'm Saniya 👋  
-I'm a B.Tech Data Science student at IIT Madras with a strong foundation in data science, web development, and cloud computing.  
+I'm a B.Tech student along with pursuing dual degree in Data Science student at IIT Madras with a strong foundation in data science, web development, and cloud computing.  
 I focus on **project-based learning, DSA, and practical problem-solving** to prepare for real-world applications.  
 
 
